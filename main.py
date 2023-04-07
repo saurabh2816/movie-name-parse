@@ -1,6 +1,8 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
 from flask import Flask, jsonify
 import os
-
 import PTN
 
 app = Flask(__name__)
